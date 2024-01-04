@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
+import math
 
 def generate_cities(num_cities):
     x_range=(0, 10)
